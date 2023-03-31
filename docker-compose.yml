@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   web:
-    image: 
+    image: mayo-docker-demo
     ports:
       - "8000:80"
     volumes:
